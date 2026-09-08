@@ -1,0 +1,22 @@
+# Urban-Tree-Survival-Risk-Analysis
+# Python 3.13, venv: project_env
+# 설치: python -m venv project_env; project_env\Scripts\activate; pip install -r requirements.txt
+
+# --- 데이터 분석 ---
+numpy==2.5.3
+pandas==2.3.3
+
+# --- 시각화 ---
+matplotlib==3.11.1
+seaborn==0.13.2
+
+# --- 머신러닝 ---
+scikit-learn==1.9.0
+xgboost==3.4.1
+
+# --- 생존 분석 (Survival Analysis) ---
+lifelines==0.30.3
+scikit-survival==0.28.0
+
+# --- Jupyter 커널 ---
+ipykernel==7.3.0
